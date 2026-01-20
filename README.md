@@ -1,1 +1,1 @@
-# Trading-Strategies---Volatility-and-trading-strategies
+# Trading and Volatility Strategies
